@@ -11571,7 +11571,7 @@ Typing \\[verilog-auto] will make this into:
 	   InstModule instName
 	     (/*AUTOINST*/
 	      // Outputs
-	      .ov	(ov[31:0]),
+	      .o	(o[31:0]),
 	      // Inputs
 	      .i	(i));
 	endmodule
