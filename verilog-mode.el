@@ -11600,7 +11600,7 @@ Exceptions:
 	   .i		(my_i_dont_mess_with_it),
 	   /*AUTOINST*/
 	   // Outputs
-	   .ov		(ov[31:0]));
+	   .o		(o[31:0]));
 
 
 Templates:
